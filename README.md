@@ -2,7 +2,7 @@
 
 Proactive Smart Contract Auditor and Web3 Security Researcher with expertise in Solidity, EVM-based vulnerabilities, formal verification, and blockchain forensics. Experienced in bug bounty hunting, smart contract auditing, and capture-the-flag (CTF) challenges. Passionate about continuous learning, mentoring others, and solving real-world problems through secure, decentralized technology. Always eager to explore new technologies and expand technical horizons.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=0xrafiKaji&style=flat-square)
 
 ---
 
@@ -22,13 +22,13 @@ Proactive Smart Contract Auditor and Web3 Security Researcher with expertise in 
 ---
 
 ## 🔥 GitHub Stats
-![0xrafi-kaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xrafi-kaji&show_icons=true&theme=radical)
+![0xrafi-kaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xrafiKaji&show_icons=true&theme=radical)
 
 ---
 
 ## 📲 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Rafi_Ackermann?s=09)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xrafiKaji)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_USERNAME)
 
 <!-- Snake animation -->
