@@ -2,7 +2,7 @@
 
 Proactive Smart Contract Auditor and Web3 Security Researcher with expertise in Solidity, EVM-based vulnerabilities, formal verification, and blockchain forensics. Experienced in bug bounty hunting, smart contract auditing, and capture-the-flag (CTF) challenges. Passionate about continuous learning, mentoring others, and solving real-world problems through secure, decentralized technology. Always eager to explore new technologies and expand technical horizons.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=0xrafiKaji&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
 
 ---
 
