@@ -18,17 +18,35 @@ My mission is to **identify critical vulnerabilities before attackers do** and h
 
 ## 🧰 Skills & Tooling
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardhat-000000?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethers.js-000000?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="arch linux" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12"/>
+  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" height="40" alt="ethereum"/>
+  <img width="12"/>
+  <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="40" alt="foundry"/>
+
+  ### 🧪 Smart Contract Fuzzing Expertise
+
+- ✅ **Stateless Fuzzing (Easiest)** — Pure invariant-less fuzzing for edge cases  
+- ✅ **Stateful Fuzzing – Open / Unguided** — Random state transitions  
+- ✅ **Stateful Fuzzing – Handler / Guided (Advanced)** — Protocol-level invariant-driven fuzzing
+
+</div>
 
 ---
 
@@ -73,14 +91,6 @@ Ready for **custom audits or Web3 security discussions?** Let’s connect:
 
 ---
 
-## 🐍 GitHub Contribution Snake (Optional Animation)
-
-```md
-![snake gif](https://github.com/0xrafiKaji/0xrafiKaji/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
 ## 👁️ Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
@@ -93,5 +103,7 @@ Ready for **custom audits or Web3 security discussions?** Let’s connect:
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
 
 </h3>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
