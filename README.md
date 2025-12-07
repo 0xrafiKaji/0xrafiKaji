@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👋+Hi,+I'm+Abdul+Awal+Ibn+Rafi+(0xrafiKaji+)"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👋+Hi,+I'm+Abdul+Awal+Ibn+Rafi+(0xrafiKaji)"
   />
 </h1>
 
