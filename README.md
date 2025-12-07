@@ -41,9 +41,9 @@ My mission is to **identify critical vulnerabilities before attackers do** and h
 
 ## 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xrafiKaji&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xrafiKaji&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrafiKaji&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xrafiKaji&layout=compact&theme=radical)
 
 ---
 
