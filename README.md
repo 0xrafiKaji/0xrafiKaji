@@ -1,5 +1,8 @@
-# 👋 Hi, I'm Abdul Awal Ibn Rafi (0xrafiKaji)  
-### 🛡️ Smart Contract Auditor | Web3 Security Researcher | Bug Hunter  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=👋+Hi,+I'm+Abdul+Awal+Ibn+Rafi+(0xrafiKaji)" />
+</h1>
+
+<h3 align="center">🛡️ Smart Contract Auditor | Web3 Security Researcher | Bug Hunter</h3>  
 
 > **Weaponizing Code to Protect Web3**
 
@@ -39,11 +42,11 @@ My mission is to **identify critical vulnerabilities before attackers do** and h
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Performance  
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xrafiKaji&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xrafiKaji&layout=compact&theme=radical)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xrafiKaji&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xrafiKaji&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)  
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xrafiKaji&theme=tokyonight)  
 
 ---
 
@@ -81,3 +84,14 @@ Ready for **custom audits or Web3 security discussions?** Let’s connect:
 ## 👁️ Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
+
+---
+
+
+<h3 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
+
+</h3>
+
+---
