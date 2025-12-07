@@ -1,36 +1,83 @@
-# Working toward becoming a top-tier Smart Contract Auditor
+# 👋 Hi, I'm Abdul Awal Ibn Rafi (0xrafiKaji)  
+### 🛡️ Smart Contract Auditor | Web3 Security Researcher | Bug Hunter  
 
-Proactive Smart Contract Auditor and Web3 Security Researcher with expertise in Solidity, EVM-based vulnerabilities, formal verification, and blockchain forensics. Experienced in bug bounty hunting, smart contract auditing, and capture-the-flag (CTF) challenges. Passionate about continuous learning, mentoring others, and solving real-world problems through secure, decentralized technology. Always eager to explore new technologies and expand technical horizons.
+> **Weaponizing Code to Protect Web3**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
+I am a proactive **Smart Contract Auditor & Web3 Security Researcher** specializing in:
+- 🔐 DeFi & NFT Smart Contract Audits  
+- 🧠 EVM-Level Vulnerability Research  
+- 🧪 Foundry & Hardhat Security Testing  
+- ⚔️ Competitive CTF & Bug Bounty Hunting  
+
+My mission is to **identify critical vulnerabilities before attackers do** and help build a safer decentralized ecosystem.
 
 ---
 
-## ⚙️ Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/Solidity-%23363636?style=flat&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foundry-%23000000?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardhat-%23000000?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethers.js-%23000000?style=flat&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black"/>
+## 🧰 Skills & Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-000000?style=flat&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethers.js-000000?style=flat&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 GitHub Stats
-![0xrafi-kaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xrafiKaji&show_icons=true&theme=radical)
+## 🔍 Security Focus Areas
+
+- ✅ Reentrancy, Access Control, Oracle Manipulation  
+- ✅ Flash Loan & Price Impact Attacks  
+- ✅ Storage Collision & Upgradeable Proxy Risks  
+- ✅ MEV, Front-running, Signature Replay  
+- ✅ Logic & Economic Exploits  
 
 ---
 
-## 📲 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/0xrafiKaji)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_USERNAME)
+## 📊 GitHub Performance
 
-<!-- Snake animation -->
-<!-- 
-![snake gif](https://github.com/0xrafi-kaji/0xrafi-kaji/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xrafiKaji&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrafiKaji&layout=compact&theme=radical)
+
+---
+
+## 🧪 Featured Security Projects
+
+- 🔒 **Stablecoin Protocol (Foundry)** – Fuzzing, invariants & oracle testing  
+- 🎰 **Chainlink VRF Lottery** – Automation, randomness security  
+- 🔍 **Capture The Flag (CTF)** – Smart contract exploitation challenges  
+- ⚔️ **Audit Practice Repositories** – From basic to advanced attacks  
+
+---
+
+## 🤝 Connect With Me
+
+Ready for **custom audits or Web3 security discussions?** Let’s connect:
+
+[![Auditor](https://img.shields.io/badge/-Auditor-0A66C2?style=flat&logo=shield&logoColor=white)](https://github.com/0xrafiKaji)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xrafiKaji)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/906905224365625355)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rafiwork2023@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/OxrafiKaji)
+
+> ✅ **Open to DeFi / NFT / Protocol audits — DM for collaborations!**
+
+---
+
+## 🐍 GitHub Contribution Snake (Optional Animation)
+
+```md
+![snake gif](https://github.com/0xrafiKaji/0xrafiKaji/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+## 👁️ Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
