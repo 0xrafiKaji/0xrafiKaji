@@ -1,111 +1,55 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&vCenter=true&width=600&height=70&duration=4000&lines=👋+Hi,+I'm+Abdul+Awal+Ibn+Rafi+(0xrafiKaji)"
-  />
-</h1>
+# Abdul Awal Ibn Rafi
 
-<h3 align="center">🛡️ Smart Contract Auditor | Web3 Security Researcher | Bug Hunter</h3>  
+**CSE undergraduate · Software builder · Systems & security enthusiast**
 
-> **Weaponizing Code to Protect Web3**
+I build practical software, explore how computer systems work, and keep expanding my engineering foundations. My long-term goal is to grow into a deeply capable, cross-disciplinary engineer and eventually build technology products and a company of my own.
 
-I am a proactive **Smart Contract Auditor & Web3 Security Researcher** specializing in:
-- 🔐 DeFi & NFT Smart Contract Audits  
-- 🧠 EVM-Level Vulnerability Research  
-- 🧪 Foundry & Hardhat Security Testing  
-- ⚔️ Competitive CTF & Bug Bounty Hunting  
+My interests span software engineering, AI-powered products, computer systems, competitive programming, and cybersecurity. I started with red teaming and Web3 development, and those experiences remain part of a broader engineering journey rather than the whole identity.
 
-My mission is to **identify critical vulnerabilities before attackers do** and help build a safer decentralized ecosystem.
+## What I'm Building
 
----
+| Project | What it does | Status |
+|---|---|---|
+| [CR AI Assistant](https://github.com/0xrafiKaji/cr-ai-assistant) | AI-powered assistant for class representatives, combining academic workflows, schedule information, messaging integrations, and human-approved actions. | Active project |
+| [NoteCraft AI Studio](https://github.com/0xrafiKaji/smuct-notecraft-ai-studio) | Academic and engineering workspace for structured study materials, document generation, mathematical content, and interactive CS learning tools. | Project |
+| [Front Page Creator](https://github.com/0xrafiKaji/front-page-creator) | Generates polished academic cover pages and lab-report front pages, with print and document export options. | Project |
+| [Digonto Browser](https://github.com/0xrafiKaji/digonto-browser) | A Chromium-based desktop browser concept focused on organized workspaces, profiles, and productivity workflows. | In development |
 
-## 🧰 Skills & Tooling
+## Current Focus
 
-<div align="left">
+- **Core engineering:** strengthening fundamentals across programming, algorithms, computer systems, architecture, operating systems, networking, and software design.
+- **Competitive programming:** building problem-solving discipline and preparing for university contests, IUPCs, and ICPC.
+- **Product engineering:** turning real problems into useful, maintainable software.
+- **Security:** applying a security mindset to systems and applications, informed by earlier work in red teaming and Web3.
+- **The Engineer's Blueprint:** a long-term framework for learning computing from fundamentals through systems and architecture.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="arch linux" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12"/>
-  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" height="40" alt="ethereum"/>
-  <img width="12"/>
-  <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="40" alt="foundry"/>
+## Areas of Interest
 
-  ### 🧪 Smart Contract Fuzzing Expertise
+`C` · `C++` · `Python` · `JavaScript/TypeScript` · `Software Engineering` · `AI Applications` · `Operating Systems` · `Computer Architecture` · `Algorithms` · `Networking` · `Cybersecurity` · `Web3`
 
-- ✅ **Stateless Fuzzing (Easiest)** — Pure invariant-less fuzzing for edge cases  
-- ✅ **Stateful Fuzzing – Open / Unguided** — Random state transitions  
-- ✅ **Stateful Fuzzing – Handler / Guided (Advanced)** — Protocol-level invariant-driven fuzzing
+These are areas of ongoing work and learning, not a claim of equal expertise in every field.
 
-</div>
+## Selected Learning Repositories
 
----
+- [CP Bootcamp 2026](https://github.com/0xrafiKaji/CP-Bootcamp-2026) - competitive programming practice and learning.
+- [Bangla Programming Resources](https://github.com/0xrafiKaji/bangla-programming-resources) - programming resources for Bangla-speaking learners.
+- [CSE1101 Study Website](https://github.com/0xrafiKaji/CSE1101-Study-Website) - academic learning resource.
+- [Smart contract and security notes](https://github.com/0xrafiKaji/smart-contract-auditing-note-best-practice-) - notes from earlier Web3 security work.
 
-## 🔍 Security Focus Areas
+## How I Like to Build
 
-- ✅ Reentrancy, Access Control, Oracle Manipulation  
-- ✅ Flash Loan & Price Impact Attacks  
-- ✅ Storage Collision & Upgradeable Proxy Risks  
-- ✅ MEV, Front-running, Signature Replay  
-- ✅ Logic & Economic Exploits  
+- Understand the problem before choosing a stack.
+- Learn the underlying concepts, not just the framework.
+- Prefer useful, maintainable solutions over unnecessary complexity.
+- Document important decisions, test meaningful behavior, and keep improving through feedback.
+
+## Connect
+
+- GitHub: [@0xrafiKaji](https://github.com/0xrafiKaji)
+- X: [@0xrafiKaji](https://x.com/0xrafiKaji)
+- Telegram: [@OxrafiKaji](https://t.me/OxrafiKaji)
+- Email: [rafiwork2023@gmail.com](mailto:rafiwork2023@gmail.com)
 
 ---
 
-## 📊 GitHub Performance  
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xrafiKaji&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xrafiKaji&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)  
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xrafiKaji&theme=tokyonight)  
-
----
-
-## 🧪 Featured Security Projects
-
-- 🔒 **Stablecoin Protocol (Foundry)** – Fuzzing, invariants & oracle testing  
-- 🎰 **Chainlink VRF Lottery** – Automation, randomness security  
-- 🔍 **Capture The Flag (CTF)** – Smart contract exploitation challenges  
-- ⚔️ **Audit Practice Repositories** – From basic to advanced attacks  
-
----
-
-## 🤝 Connect With Me
-
-Ready for **custom audits or Web3 security discussions?** Let’s connect:
-
-[![Auditor](https://img.shields.io/badge/-Auditor-0A66C2?style=flat&logo=shield&logoColor=white)](https://github.com/0xrafiKaji)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xrafiKaji)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/906905224365625355)
-[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rafiwork2023@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/OxrafiKaji)
-
-> ✅ **Open to DeFi / NFT / Protocol audits — DM for collaborations!**
-
----
-
-## 👁️ Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=0xrafi-kaji&style=flat-square)
-
----
-
-
-<h3 align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
-
-</h3>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
+*This profile is a work in progress, just like the engineering journey it represents.*
