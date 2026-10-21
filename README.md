@@ -65,7 +65,21 @@ I also build educational websites and learning resources, including the [CSE1101
 | 🏁 **Competitive programming** | Practicing problem solving and preparing for university contests, IUPCs, and ICPC. |
 | 🛠️ **Software & product engineering** | Building useful products, improving architecture, testing real behavior, and learning from practical constraints. |
 | 🔐 **Cybersecurity & Web3** | Continuing to study application security, Solidity, smart contract behavior, exploit patterns, and security testing. |
-| 📚 **The Engineer's Blueprint** | A long-term framework for connecting computing fundamentals, systems, and architecture instead of learning tools in isolation. |
+| 📚 **[The Engineer's Blueprint (2026–2035)](https://github.com/0xrafiKaji/engineers-blueprint)** | An evolving, first-principles engineering curriculum connecting programming foundations, algorithms, systems, architecture, security, research, and the path toward building technology. |
+
+
+## 📘 The Engineer's Blueprint — 2026–2035
+
+[![Open The Engineer's Blueprint](https://img.shields.io/badge/Explore-The%20Engineer's%20Blueprint-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xrafiKaji/engineers-blueprint)
+
+A long-term engineering operating system built to connect **first-principles thinking, computer science foundations, systems engineering, security research, and product building**. It is designed to evolve alongside my CSE journey, not to be a static list of tutorials.
+
+The public repository currently documents an interactive bilingual (বাংলা + English) platform with **98 modules, 8 foundational CS courses, 10 master projects**, progress trackers, and a learning journal.
+
+The central principle is simple: learn concepts deeply, explain them clearly, implement them, modify them, and use them to build real systems.
+
+**This is a work in progress.** The blueprint records the direction and process of the journey, not a claim that every topic has already been mastered.
+
 
 ## 🛡️ Web3 Development & Security
 
