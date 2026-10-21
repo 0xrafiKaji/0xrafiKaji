@@ -55,7 +55,7 @@ My path started with red teaming, then expanded into Web3 backend development, s
   </tr>
 </table>
 
-I also build educational websites and learning resources, including the [CSE1101 Study Website](https://github.com/0xrafiKaji/CSE1101-Study-Website) and [Bangla Programming Resources](https://github.com/0xrafiKaji/bangla-programming-resources).
+I also build educational websites and learning resources, including the [CSE1101 Study Website](https://github.com/0xrafiKaji/CSE1101-Study-Website) and [The Engineer's Blueprint (2026–2035)](https://github.com/0xrafiKaji/engineers-blueprint), my long-term, first-principles engineering curriculum.
 
 ## 🧭 Current Engineering Journey
 
