@@ -145,7 +145,7 @@ The technologies below reflect a mix of current use, project experience, and are
 ## 📚 Selected Learning Repositories
 
 - [CP Bootcamp 2026](https://github.com/0xrafiKaji/CP-Bootcamp-2026) - competitive programming practice and learning.
-- [Bangla Programming Resources](https://github.com/0xrafiKaji/bangla-programming-resources) - programming resources for Bangla-speaking learners.
+- [The Engineer's Blueprint (2026–2035)](https://github.com/0xrafiKaji/engineers-blueprint) - a long-term, first-principles engineering curriculum spanning CS foundations, systems, architecture, security, research, and product building.
 - [CSE1101 Study Website](https://github.com/0xrafiKaji/CSE1101-Study-Website) - academic learning resource.
 - [Smart Contract Auditing Notes](https://github.com/0xrafiKaji/smart-contract-auditing-note-best-practice-) - notes from earlier Web3 security work.
 
