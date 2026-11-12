@@ -1,0 +1,40 @@
+name: Update activity graph
+
+on:
+  # প্রতিদিন একবার নিজের হাতে জেনারেট করবে (github-readme-activity-graph
+  # সার্ভিসটা বন্ধ হয়ে যাওয়ায় গ্রাফটা নিজের রিপোতেই বানানো হচ্ছে)
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Render contribution graph SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/render_activity_graph.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "No changes to the graph"
+          else
+            git commit -m "chore: refresh contribution activity graph"
+            git push
+          fi

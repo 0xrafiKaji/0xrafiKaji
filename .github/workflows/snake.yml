@@ -4,27 +4,31 @@ on:
   # প্রতি রাতে একবার রান করবে (UTC 00:00)
   schedule:
     - cron: "0 0 * * *"
-  # চাইলে ম্যানুয়ালি Actions ট্যাব থেকে রান করতে পারো
+  # চাইলে ম্যানুয়ালি Actions ট্যাব থেকে রান করতে পারো
   workflow_dispatch:
   # main ব্রাঞ্চে push হলেই একবার রান করবে
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake SVG
+      - name: Generate snake SVGs (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: 0xrafiKaji
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
